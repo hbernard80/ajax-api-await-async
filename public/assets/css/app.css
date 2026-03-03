@@ -1,0 +1,9 @@
+
+/* Déclarations variables */
+:root {
+   --gap: 16px
+}
+
+body {
+   margin: var(--gap);      
+}
